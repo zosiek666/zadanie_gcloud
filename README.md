@@ -39,4 +39,3 @@ Wymagania encji:
 ### TODO ###
 * UUUID
 * Lepsza walidacja dancyh
-* Logowanie po API_KEY
